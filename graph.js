@@ -85,9 +85,9 @@ class Graph {
           queue.push(neighbor);
         }
       });
-  }
+    }
 
-  return result;
+    return result;
   }
 }
   
